@@ -6,5 +6,5 @@ permalink: /
 layout: splash
 header:
     overlay_color: "#5e616c"
-    overlay_image: "/assets/images/web_development.jpg"
+    image: "/assets/images/web_development.jpg"
 ---
