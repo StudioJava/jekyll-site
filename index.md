@@ -4,7 +4,7 @@ description: Welcome to my portfolio home page, where I can share all my project
 permalink: /
 layout: splash
 header:
-    image: /assets/images/web_development.jpg
+    overlay_image: /assets/images/web_development.jpg
     overlay_filter: rgba(255, 0, 0, 0.5)
   
 ---
