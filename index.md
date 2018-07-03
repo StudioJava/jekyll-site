@@ -6,6 +6,7 @@ layout: splash
 header:
     image: /assets/images/web_development.jpg
     overlay_color: "#333"
+    overlay_filter: 0.2
   
 ---
 
