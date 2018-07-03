@@ -1,1 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+title: "EJ Rojas" 
+title_separator: "|"
+description: "A flexible Jekyll theme project used as my teamtreehouse.com project."
