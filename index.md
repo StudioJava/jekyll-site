@@ -5,6 +5,5 @@ description: Welcome to my portfolio home page, where I can share all my project
 permalink: /
 layout: splash
 header:
-    overlay_color: "#5e616c"
-    image: "/assets/images/web_development.jpg"
+  image: /assets/images/web_development.jpg
 ---
