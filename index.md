@@ -8,7 +8,14 @@ excerpt: "A detail journal of my path as a Front-end Web Developer."
 header:
     overlay_image: /assets/images/web_development.jpg
     overlay_filter: rgba(255, 0, 0, 0.3)
-  
+    
+  author:
+  name   : "EJ Rojas"
+  avatar : "/assets/images/portrait_2.jpg"
+  bio    : "I am a coffee aficionado with a growth mind set learning web development and java app development. Currently taking computer science and having fun coding!!!"
+  email  : "studiojava.ca@gmail.com"
+  uri    : "https://github.com/StudioJava"
+  instagram: "javastudio.ca"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
