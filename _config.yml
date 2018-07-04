@@ -7,6 +7,16 @@ include: ["_pages"]
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
 
+author:
+  name   : "EJ Rojas"
+  avatar : "/assets/images/portrait_2.jpg"
+  bio    : "I am a coffee aficionado with a growth mind set learning web development and java app development. Currently taking computer science and having fun coding!!!"
+  email  : "studiojava.ca@gmail.com"
+  uri    : "https://github.com/StudioJava"
+  instagram: "javastudio.ca"
+  
+
+
 defaults:
   # _posts
   - scope:

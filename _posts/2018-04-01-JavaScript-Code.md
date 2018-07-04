@@ -1,7 +1,6 @@
 ---
 title: Hello World
 permalink: /javascript-code/
-layout: single 
 published: true
 ---
 #This is just a test for a previous post
