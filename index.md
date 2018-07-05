@@ -2,7 +2,7 @@
 title: Tech-Blog
 description: Welcome to my portfolio home page, where I can share all my projects, along with a bit of blogging within my path in the front-end web development career.
 permalink: /
-layout: single
+layout: splash
 excerpt: "A detail journal of my path as a Front-end Web Developer."
 
 header:
